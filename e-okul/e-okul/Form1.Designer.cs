@@ -93,9 +93,9 @@
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Font = new System.Drawing.Font("Trebuchet MS", 14.25F, System.Drawing.FontStyle.Bold);
             this.groupBox2.Location = new System.Drawing.Point(11, 289);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox2.Size = new System.Drawing.Size(749, 183);
             this.groupBox2.TabIndex = 7;
             this.groupBox2.TabStop = false;
@@ -107,7 +107,7 @@
             this.button2.BackgroundImage = global::e_okul.Properties.Resources.göster;
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button2.Location = new System.Drawing.Point(680, 59);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(36, 31);
             this.button2.TabIndex = 8;
@@ -117,7 +117,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Location = new System.Drawing.Point(587, 119);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(41, 28);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -129,7 +129,7 @@
             this.yonetim_giris.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Bold);
             this.yonetim_giris.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.yonetim_giris.Location = new System.Drawing.Point(463, 118);
-            this.yonetim_giris.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.yonetim_giris.Margin = new System.Windows.Forms.Padding(4);
             this.yonetim_giris.Name = "yonetim_giris";
             this.yonetim_giris.Size = new System.Drawing.Size(116, 36);
             this.yonetim_giris.TabIndex = 5;
@@ -141,7 +141,7 @@
             // 
             this.y_r_R.Font = new System.Drawing.Font("Trebuchet MS", 14.25F);
             this.y_r_R.Location = new System.Drawing.Point(244, 118);
-            this.y_r_R.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.y_r_R.Margin = new System.Windows.Forms.Padding(4);
             this.y_r_R.Multiline = true;
             this.y_r_R.Name = "y_r_R";
             this.y_r_R.Size = new System.Drawing.Size(209, 35);
@@ -165,7 +165,7 @@
             // 
             this.ogretmen_pw.Font = new System.Drawing.Font("Trebuchet MS", 14.25F);
             this.ogretmen_pw.Location = new System.Drawing.Point(467, 58);
-            this.ogretmen_pw.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.ogretmen_pw.Margin = new System.Windows.Forms.Padding(4);
             this.ogretmen_pw.Multiline = true;
             this.ogretmen_pw.Name = "ogretmen_pw";
             this.ogretmen_pw.PasswordChar = '*';
@@ -191,7 +191,7 @@
             this.ogretmen_id.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.ogretmen_id.Font = new System.Drawing.Font("Trebuchet MS", 14.25F);
             this.ogretmen_id.Location = new System.Drawing.Point(152, 58);
-            this.ogretmen_id.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.ogretmen_id.Margin = new System.Windows.Forms.Padding(4);
             this.ogretmen_id.Multiline = true;
             this.ogretmen_id.Name = "ogretmen_id";
             this.ogretmen_id.Size = new System.Drawing.Size(210, 35);
@@ -240,7 +240,7 @@
             this.pictureBox3.BackgroundImage = global::e_okul.Properties.Resources._1461701108_elementary_school;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox3.Location = new System.Drawing.Point(705, 17);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(33, 26);
             this.pictureBox3.TabIndex = 16;
@@ -249,7 +249,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Location = new System.Drawing.Point(587, 116);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(41, 28);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -260,7 +260,7 @@
             // 
             this.ogr_r_R.Font = new System.Drawing.Font("Trebuchet MS", 14.25F);
             this.ogr_r_R.Location = new System.Drawing.Point(244, 112);
-            this.ogr_r_R.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.ogr_r_R.Margin = new System.Windows.Forms.Padding(4);
             this.ogr_r_R.Multiline = true;
             this.ogr_r_R.Name = "ogr_r_R";
             this.ogr_r_R.Size = new System.Drawing.Size(209, 35);
@@ -325,7 +325,6 @@
             this.ogrenci_tc.Name = "ogrenci_tc";
             this.ogrenci_tc.Size = new System.Drawing.Size(209, 35);
             this.ogrenci_tc.TabIndex = 1;
-            this.ogrenci_tc.Text = "53887065754";
             this.ogrenci_tc.TextChanged += new System.EventHandler(this.ogrenci_tc_TextChanged);
             this.ogrenci_tc.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ogrenci_tc_KeyPress);
             // 
@@ -347,7 +346,7 @@
             this.button1.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Bold);
             this.button1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.button1.Location = new System.Drawing.Point(569, 480);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(168, 37);
             this.button1.TabIndex = 5;
@@ -441,7 +440,7 @@
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "giris";
             this.Text = "GİRİŞ";
             this.Load += new System.EventHandler(this.giris_Load);
